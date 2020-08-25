@@ -1,0 +1,16 @@
+{
+  "name": "simple-server3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.7.0",
+    "nodemon": "^2.0.4"
+  }
+}
